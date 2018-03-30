@@ -16,4 +16,4 @@ Features:
 7. age - age in years
 8. type - 1 for yes and 0 for no for diabetic
 
-Download diabetic dataset 
+Download diabetic dataset https://github.com/ChitraRajasekaran/Logistic-Regression_Diabetic-dataset/blob/master/pima.txt
