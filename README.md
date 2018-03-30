@@ -3,7 +3,7 @@ Overview
 
 This dataset concerns to predict patients with diabetic or not. It's based on the "".
 
-The target variable is
+The target variable is "type": to determine if a patient is diabetic or not.
 
 Features:
 
@@ -16,3 +16,4 @@ Features:
 7. age - age in years
 8. type - 1 for yes and 0 for no for diabetic
 
+Download diabetic dataset 
